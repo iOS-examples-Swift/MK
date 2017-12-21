@@ -11,6 +11,7 @@ import Foundation
 print("Hello, World! 🐒")
 
 print("🌹--🚀--👏")
+print("🌹--🚀--👏")
 
 let arguments = CommandLine.arguments
 
